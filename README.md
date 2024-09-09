@@ -1,5 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://profile-counter.glitch.me/xiaoan-1/count.svg" alt="描述文本" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoan-1&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoan-1&theme=react"/>
+</div>
 <!--
 **xiaoan-1/xiaoan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
